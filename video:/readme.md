@@ -1,0 +1,1 @@
+- [Minecraft AI - NVIDIA uses GPT-4 to create a SELF-IMPROVING 🤯 autonomous agent.](https://youtu.be/7yI4yfYftfM)
